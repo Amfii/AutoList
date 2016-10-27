@@ -1,0 +1,9 @@
+C:\Users\xxxde\Desktop\AutoList\AutoList\bin\Debug\AutoList.exe.config
+C:\Users\xxxde\Desktop\AutoList\AutoList\bin\Debug\AutoList.exe
+C:\Users\xxxde\Desktop\AutoList\AutoList\bin\Debug\AutoList.pdb
+C:\Users\xxxde\Desktop\AutoList\AutoList\obj\Debug\AutoList.Form1.resources
+C:\Users\xxxde\Desktop\AutoList\AutoList\obj\Debug\AutoList.Properties.Resources.resources
+C:\Users\xxxde\Desktop\AutoList\AutoList\obj\Debug\AutoList.csproj.GenerateResource.Cache
+C:\Users\xxxde\Desktop\AutoList\AutoList\obj\Debug\AutoList.exe
+C:\Users\xxxde\Desktop\AutoList\AutoList\obj\Debug\AutoList.pdb
+C:\Users\xxxde\Desktop\AutoList\AutoList\obj\Debug\AutoList.csprojResolveAssemblyReference.cache
